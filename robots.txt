@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-d9d1bcafe6.abjck.cn/sitemap.xml
